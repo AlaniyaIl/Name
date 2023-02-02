@@ -33,5 +33,3 @@ and testing of course   :desktop_computer:
 [вк]: https://vk.com/feed
 [Telegram]: https://t.me/ALANIYAIL
 
-
-# Name
